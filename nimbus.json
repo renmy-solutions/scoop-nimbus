@@ -1,21 +1,21 @@
 {
-    "version": "1.63.0",
+    "version": "1.64.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/renmy-solutions/renmy/releases/download/v1.63.0/nimbus_1.63.0_windows_amd64.zip",
+            "url": "https://github.com/renmy-solutions/renmy/releases/download/v1.64.0/nimbus_1.64.0_windows_amd64.zip",
             "bin": [
                 "nimbus.exe",
                 "renmy.exe"
             ],
-            "hash": "e201cffe34e774eb1437f42eaac3f1be2f3c688eeb9f55d01c2e057db560b35c"
+            "hash": "07c4e37f68d8b703251e35b9ed281f1d166083b33bc682da919e30597325c7f4"
         },
         "arm64": {
-            "url": "https://github.com/renmy-solutions/renmy/releases/download/v1.63.0/nimbus_1.63.0_windows_arm64.zip",
+            "url": "https://github.com/renmy-solutions/renmy/releases/download/v1.64.0/nimbus_1.64.0_windows_arm64.zip",
             "bin": [
                 "nimbus.exe",
                 "renmy.exe"
             ],
-            "hash": "c60376e94930a04e6d2fb4d369c7aebf3a9ae838f703a6e8444bd1584c4e513a"
+            "hash": "4795962a8260fb1ac23e51893d9d2f08174da2b3fef9fe18e62c5bfb4f47935b"
         }
     },
     "homepage": "https://renmy.net",
